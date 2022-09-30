@@ -2,7 +2,7 @@
    👋 Hi, I'm Bruno
 </h1>
 <h2>
-   19 years
+   19 years old
   <br>
    Learning ReactJS, JavaScript, React Native and other tecnologies. 
 </h2>
