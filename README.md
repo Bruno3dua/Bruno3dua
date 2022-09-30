@@ -1,10 +1,10 @@
 <h1>
-  - 👋 Hi, I'm Bruno
+   👋 Hi, I'm Bruno
 </h1>
 <h2>
-  - 19 years
+   19 years
   <br>
-  - Learning ReactJS, JavaScript, React Native. 
+   Learning ReactJS, JavaScript, React Native and other tecnologies. 
 </h2>
 
 
