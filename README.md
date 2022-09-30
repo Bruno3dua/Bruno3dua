@@ -6,8 +6,7 @@
   <br>
   - Learning ReactJS, JavaScript, React Native. 
 </h2>
-- 19 years
-- Learning ReactJS, JavaScript, React Native.
+
 
 <!--
 Bruno3dua/Bruno3dua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
