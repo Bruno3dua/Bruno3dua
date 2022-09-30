@@ -2,9 +2,11 @@
    👋 Hi, I'm Bruno
 </h1>
 <h2>
-   19 years old
-  <br>
-   Learning ReactJS, JavaScript, React Native and other tecnologies. 
+<ul>
+   <li>19 years old</li>
+   <li>Learning ReactJS, JavaScript, React Native and other tecnologies.</li>
+   <li>Currently attending college for Computer Engineering degree</li>
+</ul>
 </h2>
 
 
