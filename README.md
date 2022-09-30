@@ -5,7 +5,7 @@
 <ul>
    <li>19 years old</li>
    <li>Learning ReactJS, JavaScript, React Native and other tecnologies.</li>
-   <li>Currently attending college for Computer Engineering degree</li>
+   <li>On the path to become a Computer Engineer.</li>
 </ul>
 </h2>
 
