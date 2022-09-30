@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Bruno3dua
+- 👋 Hi, I'm Bruno
+- 19 years
+- Learning ReactJS, JavaScript, React Native.
 
 <!--
 Bruno3dua/Bruno3dua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
